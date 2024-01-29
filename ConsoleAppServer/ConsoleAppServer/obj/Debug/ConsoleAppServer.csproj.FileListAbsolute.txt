@@ -1,0 +1,7 @@
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.exe.config
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.exe
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\bin\Debug\ConsoleAppServer.pdb
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.csprojAssemblyReference.cache
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.csproj.CoreCompileInputs.cache
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.exe
+c:\users\429195-6\source\repos\ConsoleAppServer\ConsoleAppServer\obj\Debug\ConsoleAppServer.pdb
